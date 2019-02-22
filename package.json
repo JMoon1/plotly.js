@@ -80,7 +80,7 @@
     "gl-mat4": "^1.2.0",
     "gl-mesh3d": "^2.0.7",
     "gl-plot2d": "^1.4.2",
-    "gl-plot3d": "git://github.com/gl-vis/gl-plot3d.git#15f44b09cbb969081a29f0a4b361a2c77fe09db3",
+    "gl-plot3d": "git://github.com/gl-vis/gl-plot3d.git#c0657afe32fe77ac0f648461faacf16c87a3a716",
     "gl-pointcloud2d": "^1.0.2",
     "gl-scatter3d": "^1.1.6",
     "gl-select-box": "^1.0.3",
